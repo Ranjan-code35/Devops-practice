@@ -1,2 +1,3 @@
 Hii I'm Ranjan Gowda from Mandya
 Im learning Git & GitHub fot Devops
+so finally i came to know how to push file from Git to GitHub
