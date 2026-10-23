@@ -1,1 +1,2 @@
 Hii i have created one more file for practicing the thing
+i have edit the app1.txt to see how we need to commit again if we changed the file content
